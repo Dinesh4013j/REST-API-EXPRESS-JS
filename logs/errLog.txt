@@ -1,0 +1,9 @@
+20240630	11:33:26	7d5d9711-e525-48dd-a19c-185376101d8d	Error:not allowed by CORS
+20240630	11:33:26	433a38e5-9b8c-43ec-89f4-8d978a963a2f	Error:not allowed by CORS
+20240630	11:42:56	88752c22-3bf7-469c-8523-8a5ed8e3bce7	Error:not allowed by CORS
+20240630	11:42:56	97b3ca4e-7d19-4a5e-befa-3b245f4ed383	Error:not allowed by CORS
+20240630	11:42:59	47539d5b-a311-4a96-a1c5-6ecc58df6db8	Error:not allowed by CORS
+20240630	11:42:59	46971ac2-715b-4f1a-91e7-a2c8062ae4a8	Error:not allowed by CORS
+20240630	11:43:13	98cc2248-f322-4cbb-92dd-1506a8097090	Error:not allowed by CORS
+20240630	11:43:13	f21a9463-36f1-4ac4-83b5-80c92d75b8f1	Error:not allowed by CORS
+20240630	14:43:43	fed9223e-0cb5-40fd-9111-84cb98b0069f	Error:ENOENT: no such file or directory, stat 'C:\Users\jd267\Desktop\Express learning\routes\views\newpage.html'
